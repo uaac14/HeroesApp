@@ -1,4 +1,7 @@
 # Heroesapp
+NOTA:
+No incluye ng Models
+npm install - for ng models
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
